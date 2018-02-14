@@ -1,0 +1,8 @@
+@import "../node_modules/bootswatch/dist/united/variables";
+@import "../node_modules/bootswatch/dist/united/bootstrap.min";
+@import "../node_modules/bootswatch/dist/united/bootswatch";
+@import "./styles/container";
+
+body, html, #root, #root > div {
+  height: 100%;
+}
